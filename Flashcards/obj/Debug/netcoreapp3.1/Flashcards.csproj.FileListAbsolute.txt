@@ -1,0 +1,11 @@
+C:\Users\RH\source\repos\Flashcards\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.csprojAssemblyReference.cache
+C:\Users\RH\source\repos\Flashcards\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfoInputs.cache
+C:\Users\RH\source\repos\Flashcards\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.AssemblyInfo.cs
+C:\Users\RH\source\repos\Flashcards\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.exe
+C:\Users\RH\source\repos\Flashcards\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.deps.json
+C:\Users\RH\source\repos\Flashcards\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.runtimeconfig.json
+C:\Users\RH\source\repos\Flashcards\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.runtimeconfig.dev.json
+C:\Users\RH\source\repos\Flashcards\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.dll
+C:\Users\RH\source\repos\Flashcards\Flashcards\bin\Debug\netcoreapp3.1\Flashcards.pdb
+C:\Users\RH\source\repos\Flashcards\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.dll
+C:\Users\RH\source\repos\Flashcards\Flashcards\obj\Debug\netcoreapp3.1\Flashcards.pdb
